@@ -22,8 +22,8 @@ Full Stack Developer Intern @Chennai International Airport - Airport Authority o
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Windows-11_Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryasenthilkumar2006&theme=dark&show_icons=true&&hide=issues,contribs)
+![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryasenthilkumar2006&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/suryasenthilkumar?ext=contest&theme=dark)](https://leetcode.com/suryasenthilkumar)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suryasenthilkumar2006&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Surya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suryasenthilkumar2006&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
